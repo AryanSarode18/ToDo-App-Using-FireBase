@@ -1,4 +1,4 @@
-# ToDo-App-Using-FireBase
+# ToDo App Using FireBase And JS
 
 In this app I've used Firebase and JavaScript
 to be able to use firebase you will have to initialize firebase
